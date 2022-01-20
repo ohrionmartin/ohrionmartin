@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ohrionmartin)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ohrionmartin)
 
-### Glad to see you here! &nbsp; 
+### Glad to see you here.. &nbsp; 
 ![](https://visitor-badge.glitch.me/badge?page_id=ohrionmartin.ohrionmartin)
 
 <a href="https://github.com/ohrionmartin"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohrionmartin&include_all_commits=true&show_icons=true&theme=calm" alt="Oh's github stats" /></a>
